@@ -9,3 +9,8 @@ For more details about it, visit [here](https://docs.remnux.org/).
 # Installation
 
 # Operating System Setup
+- Make sure to Update your linux system before proceeding installation of XEN environment:
+```
+sudo apt update
+sudo apt upgrade -y
+```
