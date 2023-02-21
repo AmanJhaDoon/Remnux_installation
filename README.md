@@ -26,3 +26,14 @@ sudo apt upgrade -y
 - wait for the installation process to complete.
 - Once the installation is complete, open the VirtualBox application.
 
+# Steps to install remnux on oracle VM 
+- Installing the REMnux virtual machine in Oracle VM VirtualBox is a straightforward process. Here are the steps to install REMnux:
+
+- Open Oracle VM VirtualBox and click on the "New" button to create a new virtual machine.
+- Choose a name for the virtual machine and select "Linux" as the type, and "Ubuntu (64-bit)" as the version.
+- Allocate at least 4GB of RAM to the virtual machine, and create a new virtual hard disk with a recommended size of 40GB.
+- Once the virtual machine is created, select the newly created virtual machine and click on the "Settings" button.
+- In the "Storage" tab, click on the empty CD/DVD icon, and select "Choose Virtual Optical Disk File".
+- Navigate to the downloaded REMnux virtual machine file, and select it to insert it into the virtual machine.
+- Start the virtual machine and wait for the operating system to load.
+- Log in to the REMnux virtual machine using the default credentials provided on the REMnux website.
