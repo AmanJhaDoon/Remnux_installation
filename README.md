@@ -94,8 +94,7 @@ sudo mount -t vboxsf <folder-name> /shared
   This command mounts the shared folder in the virtual machine at the directory you created in above step.
 
    You can now access the shared folder in the virtual machine by navigating to the directory where you mounted it. For example, if you mounted the shared folder in the directory "/shared", you can access it by running the command:
-   ```
+```
 cd /shared
-   
-   ```
+```
    You can copy files to and from the shared folder just like you would with any other directory
