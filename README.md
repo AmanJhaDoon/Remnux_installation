@@ -72,7 +72,7 @@ After the virtual machine restarts, you should be able to use the enhanced featu
 For example, Video support, Shared folder , Seamless mouse intergration, Clipboard sharing , Time synchronization, Seamless Window integration, audio support
 
 
-Shared folder setup 
+# Shared folder setup 
 
 
 A shared folder is a folder on the host operating system that can be accessed from within a virtual machine
@@ -103,7 +103,7 @@ cd /shared
 You can copy files to and from the shared folder just like you would with any other directory
 
 
-Guide for enabling better video support on your REMnux:
+# Guide for enabling better video support on your REMnux:
 - select the REMnux virtual machine in the VirtualBox Manager, click on "Settings", and select the "Display" tab.
 - Then, check the "Enable 3D Acceleration" checkbox and click "OK" to save the changes. 
 
