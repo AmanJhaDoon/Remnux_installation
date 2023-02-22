@@ -68,5 +68,5 @@ sudo reboot
 After the virtual machine restarts, you should be able to use the enhanced features provided by VirtualBox Guest Additions, such as better video support, shared folders, and seamless mouse integration.
 
 
-# Now after you may need to adjust your virtual machine settings to enable certain features provided by VirtualBox Guest Additions. 
+# Now after Virtualbox Guest Addition you may need to adjust your virtual machine settings to enable certain features . 
 For example, to use shared folders, you need to create a shared folder in the VirtualBox settings and mount it in the virtual machine using the mount command
