@@ -71,7 +71,10 @@ After the virtual machine restarts, you should be able to use the enhanced featu
 # Now after Virtualbox Guest Addition you may need to adjust your virtual machine settings to enable certain features . 
 For example, Video support, Shared folder , Seamless mouse intergration, Clipboard sharing , Time synchronization, Seamless Window integration, audio support
 
+
 Shared folder setup 
+
+
 A shared folder is a folder on the host operating system that can be accessed from within a virtual machine
 - Create a folder on your host operating system that you want to share with the REMnux virtual machine. For example, you can create a folder named "Shared" on your desktop.
 - In VirtualBox, select your REMnux virtual machine and click on "Settings" in the VirtualBox menu.
@@ -93,8 +96,15 @@ sudo mount -t vboxsf <folder-name> /shared
 - Replace <folder-name> with the name of the shared folder you specified in above step.
   This command mounts the shared folder in the virtual machine at the directory you created in above step.
 
-   You can now access the shared folder in the virtual machine by navigating to the directory where you mounted it. For example, if you mounted the shared folder in the directory "/shared", you can access it by running the command:
+You can now access the shared folder in the virtual machine by navigating to the directory where you mounted it. For example, if you mounted the shared folder in the directory "/shared", you can access it by running the command:
 ```
 cd /shared
 ```
-   You can copy files to and from the shared folder just like you would with any other directory
+You can copy files to and from the shared folder just like you would with any other directory
+
+
+Guide for enabling better video support on your REMnux:
+- select the REMnux virtual machine in the VirtualBox Manager, click on "Settings", and select the "Display" tab.
+- Then, check the "Enable 3D Acceleration" checkbox and click "OK" to save the changes. 
+
+ 
