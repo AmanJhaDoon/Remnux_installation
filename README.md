@@ -107,4 +107,24 @@ You can copy files to and from the shared folder just like you would with any ot
 - select the REMnux virtual machine in the VirtualBox Manager, click on "Settings", and select the "Display" tab.
 - Then, check the "Enable 3D Acceleration" checkbox and click "OK" to save the changes. 
 
- 
+# Snapshots in Oracle VM VirtualBox
+   Snapshots in Oracle VM VirtualBox enable you to save the current state of your virtual machine, so you can easily revert to that state later. This is useful for tasks like software testing, configuration experimentation, or backing up your virtual machine.
+# To take a snapshot
+- Make sure that the REMnux virtual machine is powered off.
+- In the VirtualBox Manager window, select the REMnux virtual machine.
+- Click on the "Snapshots" button in the top menu bar.
+- Click on the "Take" button to create a new snapshot.
+- Enter a name and optional description for the snapshot and click "OK".
+- The snapshot will be created and added to the list of available snapshots for the virtual machine.
+   
+# To revert to a previously saved snapshot:
+
+- Power off the virtual machine if it is running.
+- Select the virtual machine in the VirtualBox Manager window.
+- Click on the "Snapshots" button in the top menu bar.
+- Choose the snapshot you want to revert to by clicking on it in the list.
+- Click on the "Restore" button to revert the virtual machine to the state it was in at the time the snapshot was taken.
+- A confirmation dialog will appear. Click "Restore" to confirm.
+- The virtual machine will be reverted to the state of the selected snapshot.
+
+Note that when you restore a snapshot, any changes made to the virtual machine since the snapshot was taken will be lost. If you want to keep these changes, you should create a new snapshot before restoring an old one.
