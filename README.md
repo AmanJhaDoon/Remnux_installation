@@ -45,6 +45,9 @@ sudo apt upgrade -y
 - Go to the REMnux website at https://remnux.org/ and click on the "Download" link in the top navigation menu.
 - On the Downloads page, you'll find various versions of REMnux that you can download, depending on your needs. Select the version you want by clicking on the corresponding link.
 - Once you've clicked on the link for the version you want, you'll be taken to a page with download instructions and a list of available mirrors. Choose a mirror from the list by clicking on its link.
+
+![pic2](https://user-images.githubusercontent.com/110851315/220862073-c7fc2e48-c6d6-4543-907e-0d47b2c2008e.png)
+
 - You'll then be redirected to the mirror's website, where you can download the REMnux ISO file. Click on the link to start the download.
 
 ![pic3](https://user-images.githubusercontent.com/110851315/220862081-c7723e29-0dbe-43b1-a678-83b43aeae49c.png)
