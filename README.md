@@ -17,6 +17,7 @@ sudo apt upgrade -y
 ```
 # Steps to download and install Oracle VM VirtualBox on Ubuntu
 - Open a web browser and go to the Oracle VM VirtualBox download page.
+![pic4](https://user-images.githubusercontent.com/110851315/220863099-409eb488-407d-4f35-acbd-5ad1b25a7fca.png)
 - Select the version of VirtualBox that is compatible with your version of Ubuntu.
 - Click the "Download" button to begin the download process.
 - Once the download is complete, navigate to the directory where the .deb package was downloaded.
