@@ -27,6 +27,15 @@ sudo apt upgrade -y
 - wait for the installation process to complete.
 - Once the installation is complete, open the VirtualBox application.
 
+
+# Steps to download REmnux from their official site
+- To download REMnux from the official site blog, you can follow these steps:
+- Go to the REMnux website at https://remnux.org/ and click on the "Download" link in the top navigation menu.
+- On the Downloads page, you'll find various versions of REMnux that you can download, depending on your needs. Select the version you want by clicking on the corresponding link.
+- Once you've clicked on the link for the version you want, you'll be taken to a page with download instructions and a list of available mirrors. Choose a mirror from the list by clicking on its link.
+- You'll then be redirected to the mirror's website, where you can download the REMnux ISO file. Click on the link to start the download.
+
+
 # Steps to install REmnux on oracle VM 
 # Installing the REMnux in Oracle VM VirtualBox is a straightforward process.:
 
