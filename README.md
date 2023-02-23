@@ -82,6 +82,7 @@ sudo apt upgrade -y
    sudo apt upgrade 
 ``` 
 to make sure that the system is up to date.
+# VirtualBox Guest Additions
 
 VirtualBox Guest Additions is a set of drivers and software that enhances the performance and functionality of a virtual machine running on VirtualBox. Here's how to install and use VirtualBox Guest Additions on your REMnux virtual machine:
 - Start your REMnux virtual machine and log in as root or a user with sudo privileges.
