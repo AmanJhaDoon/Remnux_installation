@@ -24,8 +24,15 @@ sudo apt upgrade -y
 - Click the "Download" button to begin the download process.
 - Once the download is complete, navigate to the directory where the .deb package was downloaded.
 - double-click on the downloaded .deb package to open it with the Ubuntu Software Center.
+
+![pic6](https://user-images.githubusercontent.com/110851315/220863147-f2310010-ec72-4862-aed8-ac9f6504dcb2.png)
+
+
 - Click the "Install" button to install the software.
 - You may be prompted to enter your password to authorize the installation process.
+
+![pic7](https://user-images.githubusercontent.com/110851315/220862210-eece1b7d-14ce-4c4c-9292-0afc130564cd.png)
+
 - wait for the installation process to complete.
 - Once the installation is complete, open the VirtualBox application.
 
