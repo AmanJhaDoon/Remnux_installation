@@ -38,23 +38,38 @@ sudo apt upgrade -y
 
 
 # Steps to download REmnux from their official site
-- To download REMnux from the official site blog, you can follow these steps:
+- To download REMnux from the official site :
+
+![pic1](https://user-images.githubusercontent.com/110851315/220862044-9a55a6f8-d25f-486e-b8a9-cba57e86609e.png)
+
 - Go to the REMnux website at https://remnux.org/ and click on the "Download" link in the top navigation menu.
 - On the Downloads page, you'll find various versions of REMnux that you can download, depending on your needs. Select the version you want by clicking on the corresponding link.
 - Once you've clicked on the link for the version you want, you'll be taken to a page with download instructions and a list of available mirrors. Choose a mirror from the list by clicking on its link.
 - You'll then be redirected to the mirror's website, where you can download the REMnux ISO file. Click on the link to start the download.
+
+![pic3](https://user-images.githubusercontent.com/110851315/220862081-c7723e29-0dbe-43b1-a678-83b43aeae49c.png)
+
 
 
 # Steps to install REmnux on oracle VM 
 # Installing the REMnux in Oracle VM VirtualBox is a straightforward process.:
 
 - Open Oracle VM VirtualBox and click on the "New" button to create a new virtual machine.
+
+![pic9](https://user-images.githubusercontent.com/110851315/220862343-f364786c-e9b8-4ec5-9608-4d5ff457e8ad.png)
+
 - Choose a name for the virtual machine and select "Linux" as the type, and "Ubuntu (64-bit)" as the version.
 - Allocate at least 4GB of RAM to the virtual machine, and create a new virtual hard disk with a recommended size of 40GB.
 - Once the virtual machine is created, select the newly created virtual machine and click on the "Settings" button.
 - In the "Storage" tab, click on the empty CD/DVD icon, and select "Choose Virtual Optical Disk File".
 - Navigate to the downloaded REMnux virtual machine file, and select it to insert it into the virtual machine.
+
+![pic12](https://user-images.githubusercontent.com/110851315/220862374-1fbfd845-3c75-4c2a-817a-8ca39bfb1248.png)
+
 - Start the virtual machine and wait for the operating system to load.
+
+![pic16](https://user-images.githubusercontent.com/110851315/220862440-b8f78d09-eec2-4986-ab83-169cc19bf0dd.png)
+
 - Log in to the REMnux virtual machine using the default credentials provided on the REMnux website.
 
 # steps to configure REMnux after installing it on an Oracle VM running Ubuntu:
